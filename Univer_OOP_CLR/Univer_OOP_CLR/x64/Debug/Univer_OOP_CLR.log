@@ -1,0 +1,6 @@
+﻿  Calculator.cpp
+  MyForm.cpp
+  Создание кода...
+D:\C_C++\Univer_OOP_CLR\MyForm.cpp(6,6): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Calculator.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Univer_OOP_CLR.vcxproj -> D:\C_C++\Univer_OOP_CLR\x64\Debug\Univer_OOP_CLR.exe

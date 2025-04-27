@@ -1,0 +1,3 @@
+D:\C_C++\Univer_OOP_CLR\Univer_OOP_CLR\x64\Debug\Univer_OOP_CLR.vcxproj.AssemblyReference.cache
+D:\C_C++\Univer_OOP_CLR\Univer_OOP_CLR\x64\Debug\UniverOOPCLR.MyForm.resources
+D:\C_C++\Univer_OOP_CLR\Univer_OOP_CLR\x64\Debug\Univer_OOP_CLR.vcxproj.GenerateResource.cache

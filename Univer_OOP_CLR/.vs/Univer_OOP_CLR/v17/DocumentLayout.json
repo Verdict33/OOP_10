@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C_C\u002B\u002B\\Univer_OOP_CLR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA81038-B49F-492B-A6BD-415FC0FDFED8}|Univer_OOP_CLR.vcxproj|D:\\C_C\u002B\u002B\\Univer_OOP_CLR\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CA81038-B49F-492B-A6BD-415FC0FDFED8}|Univer_OOP_CLR.vcxproj|solutionrelative:Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA81038-B49F-492B-A6BD-415FC0FDFED8}|Univer_OOP_CLR.vcxproj|D:\\C_C\u002B\u002B\\Univer_OOP_CLR\\Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CA81038-B49F-492B-A6BD-415FC0FDFED8}|Univer_OOP_CLR.vcxproj|solutionrelative:Calculator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA81038-B49F-492B-A6BD-415FC0FDFED8}|Univer_OOP_CLR.vcxproj|D:\\C_C\u002B\u002B\\Univer_OOP_CLR\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{2CA81038-B49F-492B-A6BD-415FC0FDFED8}|Univer_OOP_CLR.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA81038-B49F-492B-A6BD-415FC0FDFED8}|Univer_OOP_CLR.vcxproj|D:\\C_C\u002B\u002B\\Univer_OOP_CLR\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CA81038-B49F-492B-A6BD-415FC0FDFED8}|Univer_OOP_CLR.vcxproj|solutionrelative:MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cpp",
+              "DocumentMoniker": "D:\\C_C\u002B\u002B\\Univer_OOP_CLR\\Calculator.cpp",
+              "RelativeDocumentMoniker": "Calculator.cpp",
+              "ToolTip": "D:\\C_C\u002B\u002B\\Univer_OOP_CLR\\Calculator.cpp",
+              "RelativeToolTip": "Calculator.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-27T09:14:16.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.h",
+              "DocumentMoniker": "D:\\C_C\u002B\u002B\\Univer_OOP_CLR\\Calculator.h",
+              "RelativeDocumentMoniker": "Calculator.h",
+              "ToolTip": "D:\\C_C\u002B\u002B\\Univer_OOP_CLR\\Calculator.h",
+              "RelativeToolTip": "Calculator.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-27T09:14:01.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\C_C\u002B\u002B\\Univer_OOP_CLR\\MyForm.h",
+              "RelativeDocumentMoniker": "MyForm.h",
+              "ToolTip": "D:\\C_C\u002B\u002B\\Univer_OOP_CLR\\MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "MyForm.h [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-27T07:04:57.915Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "D:\\C_C\u002B\u002B\\Univer_OOP_CLR\\MyForm.h",
+              "RelativeDocumentMoniker": "MyForm.h",
+              "ToolTip": "D:\\C_C\u002B\u002B\\Univer_OOP_CLR\\MyForm.h",
+              "RelativeToolTip": "MyForm.h",
+              "ViewState": "AgIAAO8BAAAAAAAAAADwv8ABAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-26T12:32:56.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
