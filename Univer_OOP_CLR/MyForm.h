@@ -489,7 +489,7 @@ namespace UniverOOPCLR {
 			textBox1->Clear();
 		}
 		catch (System::FormatException^) {
-			MessageBox::Show("¬ведите корректные числа.", "ќшибка", MessageBoxButtons::OK, MessageBoxIcon::Error);
+			MessageBox::Show("Enter the correct numbers.", "Error", MessageBoxButtons::OK, MessageBoxIcon::Error);
 		}
 	}
 	private: System::Void button2_Click(System::Object^ sender, System::EventArgs^ e) {
